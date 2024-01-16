@@ -14,6 +14,6 @@ Click the "Search" button to fetch weather data for the specified city.
 
 The current weather and 5-day forecast will be displayed below the input.
 
-Deployed URL -
+Deployed URL - https://xero-n.github.io/Weather-Forecast/
 
 ![Image1](assets/Images/image-01.png)
